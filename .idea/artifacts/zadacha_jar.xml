@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zadacha:jar">
+    <output-path>$USER_HOME$/Desktop/output</output-path>
+    <root id="archive" name="zadacha.jar">
+      <element id="module-output" name="zadacha" />
+    </root>
+  </artifact>
+</component>
